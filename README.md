@@ -46,7 +46,7 @@
 
 ###
 
-<h3 align="right">Visualizações do perfil</h3>
+<h3 align="right">Visualizações no perfil</h3>
 
 ###
 
